@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Demo ExplicitIntent</string>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="hero_name">HeroStats</string>
 </resources>
